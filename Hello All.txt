@@ -6,3 +6,5 @@ You all must select a unique algo, discuss it amongst yourselves on the group.
 You are supposed to send a pull request and add the file labeled as your name_algoname
 All the best!
 The deadline is now till the 22nd of May!
+
+..
