@@ -1,0 +1,8 @@
+Hey All,
+The task here is to go to the below mentioned link and choose an Algo.
+https://docs.google.com/spreadsheets/d/1yUAJVAHpnV2qewGlHkRoVz_gW1L2Ac1Z7DRr10qh7P0/edit?usp=drivesdk
+Now how that choosing will work:
+You all must select a unique algo, discuss it amongst yourselves on the group.
+You are supposed to send a pull request and add the file labeled as your name_algoname
+All the best!
+The deadline is now till the 22nd of May!
